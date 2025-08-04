@@ -51,7 +51,7 @@ This project aims to help organizations improve employee performance and reduce 
 
 ## 📂 Folder Structure
 - `HR_Analytics_Dashboard.pbix` → Power BI file
-- `hr_dataset.xlsx` → Cleaned dataset
+- `hr_dataset.xlsx` → https://drive.google.com/file/d/1aiSOPvcy5ubXayd3cJC3NGOgQraRu6nq/view?usp=drive_link
 - `hr_powerpoint.ppxt` → Screenshots of all key visuals
 - `dashboard_image/`
 - 
